@@ -1,0 +1,65 @@
+{
+  "UserSupport": "Привет! Для ознакомления с командами бота, напиши: \"help\" или \"помощь\" (без кавычек). Удачного использования!",
+  "HelpMenuUser": "&#9989; maps - Поиск карт для тренировок\n&#9989; about - О сообществе\n",
+  "HelpMenuAdmin": "&#9989; banned [id] - Забанить пользователя с адресом страницы id\n&#9989; unbanned [id] - Разбанить пользователя с адресом стрницы id.\nНапример: banned/unbanned https://vk.com/kenan107\n&#9989; print [list] - Вывести список людей в листе list.\nНапример: print admins/banned\n&#9989; admin [flag] [id] - Добавляет или удаляет пользователя из списка администраторов с адресом страницы id.\n Например: admin delete/add https://vk.com/kenan107\n",
+  "AboutMenu": "&#128188; [stepa_tort|создатель группы | админ]\n&#128190; [kenan107|автор бота]",
+  "PeopleNotFound": "Человек с таким адресом не найден.",
+  "NotDeleteAdmin": "Вы не можете забанить администратора. Решите человека прав администратора, после чего вы сможете забанить его.",
+  "BannedSuccses": "Пользователь был забанен успешно. Бот не будет отвечать данному пользователю.",
+  "UnbannedSuccses": "Пользователь был разбанен успешно. Бот будет отвечать данному пользователю.",
+  "DeleteAdminSuccses" : "Пользователь удалён из списка администраторов.",
+  "AddAdminSuccses": "Пользователь успешно добавлен в список администраторов.",
+  "NotInList": "Пользователя с таким URL нету в списке.",
+  "NotList": "Не существует такого листа.\nСуществующие листы:\n &#9989; admins\n &#9989; banned\n",
+  "CommandPrefixNot": "Не существует такого флага для данной команды.\nВозможные флаги:\n",
+  "AnswerCommand": "\n&#10067; Для активации команды, введите команду после смайлика &#9989;",
+  "MapCommand" : [
+    "bunny",
+    "surf",
+    "aim",
+    "vs",
+    "mission"
+  ],
+  "MapNames": [
+    "Bunny hop карты",
+    "Surf карты",
+    "Aim карты",
+    "1vs1 карты",
+    "Coop mission карты"
+  ],
+  "BunnyHoop": [
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=1280707328&searchtext=Bhop+sj+%28bhop_sj%29",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=433652551&searchtext=bhop_japan",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=542672466&searchtext=bhop+arcane",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=365282967",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=434686002"
+  ],
+  "Surf": [
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=450516696&searchtext=surf",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=2013918015&searchtext=surf",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=506206340&searchtext=Surf+Master",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=675022713&searchtext=surf_kitsune2",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=917441436&searchtext=surf_utopia_night"
+  ],
+  "Aim": [
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=140488121&searchtext=training+bot+aim",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=368026786&searchtext=fast+aim+reflex+training",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=353366249&searchtext=training+center",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=243702660&searchtext=aim+botz",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=213240871&searchtext=training_aim_csgo2"
+  ],
+  "Vs": [
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=539261173&searchtext=training+aim+pistols",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=832240724&searchtext=awp+lego",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=547340655&searchtext=aim_map",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=125995702&searchtext=aim_redline",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=2047666277&searchtext=aim_ak47"
+  ],
+  "CoopMission": [
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=634737301&searchtext=coop_mission",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=383927061&searchtext=coop_mission",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=758598595&searchtext=coop_mission",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=932023932&searchtext=coop_mission",
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=500393206&searchtext=coop_mission"
+  ]
+}
